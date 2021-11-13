@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Библиотека</string>
+    <string name="reg_number">Рег. номер: </string>
+    <string name="author">Автор: </string>
+    <string name="name">Название: </string>
+    <string name="year">Год публикации: </string>
+    <string name="published">Издатель: </string>
+    <string name="num_of_page">Кол-во страниц: </string>
+    <string name="refresh">Обновить</string>
+    <string name="add">Добавить</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="load">Загрузить из фаил</string>
+    <string name="save">Сохранить в фаил</string>
+</resources>
